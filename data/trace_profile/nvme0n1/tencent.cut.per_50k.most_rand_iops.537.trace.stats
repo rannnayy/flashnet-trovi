@@ -1,0 +1,20 @@
+==========   Statistics   ==========
+Trace name   = tencent.cut.per_50k.most_rand_iops.537.trace
+R:W ratio    = 82:18
+Duration     = 54.0 s
+#IO          = 50000
+#writes      = 8964
+#reads       = 41036
+IOPS         = 925.93
+Write IOPS   = 166.00
+Read IOPS    = 759.93
+Last time    = 54000.0
+Avg write throughput = 115.40 MB/s
+Avg write latency    = 453.00 us
+Avg read throughput  = 7.97 MB/s
+Avg read latency     = 1603.00 us
+Interarrival avg     = 1.08 ms
+Total run time       = 0 mins
+Late rate            = 93.09 %
+Slack rate           = 6.91 %
+====================================
