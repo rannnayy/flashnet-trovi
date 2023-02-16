@@ -152,7 +152,7 @@ def train_model(dataset_path, percent_data_for_eval):
         x_train,
         y_train,
         validation_split=0.2,
-        verbose=1, epochs=20
+        verbose=1, epochs=10
     )
     figure_path0 = os.path.join(output_dir, "train_loss.png")
     plot_loss(figure_path0, history)
